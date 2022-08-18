@@ -5,10 +5,11 @@
 
 Improbable Beef is researching candidate species to synthesize beef, to find the elusive bacteria that will provide the next best taste for alternative beef products.  Reasearchers for Improbable Beef hypothesize the ideal bacterial species to make synthetic beef may be found in the belly button. However, bacteria species may vary between individuals.
 
-To test their hypothesis, reasearchers sampled the navels of individuals across the country to identify the bacterial species that colonize individual's belly buttons.  Each research participant has been assigned an ID number.  Interactive charts displaying the data can be found at the following website: 
+To test their hypothesis, reasearchers sampled the navels of individuals across the country to identify the bacterial species that colonize individual's belly buttons.  Each research participant has been assigned an ID number.  Interactive charts displaying the data can be found at the following website:
+
+[Belly Button Biodiversity Dashboard](https://ajcurtis916.github.io/belly_button_biodiversity/)
 </br>
 
 ## Resources
 - Data: samples.json
-- Software:
-    - VS Code version 1.70
+- Software: VS Code version 1.70
