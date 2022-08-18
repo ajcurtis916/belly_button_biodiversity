@@ -1,9 +1,24 @@
-/* body {
+ body {
     background-color:black;
- } */
+ }
 
 .jumbotron {
     background-image: url("../images/belly_button_burger.jpg");
     background-size: 25% 100%;
     text-align: center;
+    color: white;
   }
+
+h1 {
+  background: rgba(0, 0, 0, 0.75);
+  margin: 0;
+  font: 14px Sans-Serif;
+}
+
+p {
+  color: white;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 4px 4px;
+  margin: 0;
+  font: 18px Sans-Serif;
+}
