@@ -1,0 +1,9 @@
+/* body {
+    background-color:black;
+ } */
+
+.jumbotron {
+    background-image: url("../images/belly_button_burger.jpg");
+    background-size: 25% 100%;
+    text-align: center;
+  }
